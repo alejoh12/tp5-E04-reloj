@@ -8,6 +8,14 @@ main {
     flex-grow: 1;
 }
 
+.colorBanner {
+    background: rgb(255, 0, 132);
+}
+
+.fondoReloj {
+    background:  rgba(255, 0, 132, 0.251);
+}
+
 .fondoFooter {
     background: rgb(40, 40, 41);
 }
